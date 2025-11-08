@@ -56,3 +56,23 @@ The focus will shift from data cleaning to uncovering the stories within the dat
     *   **交互式可视化：** 创建图表以直观地展示分析结果。
 *   **Analytics Report:** A detailed report summarizing key insights and business recommendations.
     *   **分析报告：** 一份详细报告，总结关键洞察与商业建议。
+
+## Viewing the Notebook / 查看笔记本说明
+
+**Note for GitHub Preview:** Some visualizations in the Jupyter notebook may not render properly in GitHub's built-in preview due to technical limitations.
+
+**GitHub预览说明：** 由于技术限制，Jupyter笔记本中的部分可视化内容可能无法在GitHub内置预览中正常显示。
+
+**To view the full notebook with complete outputs:**
+- **Download** the `.ipynb` file and open it locally with Jupyter Notebook or VS Code.
+- **OR** use the online **Nbviewer** service:
+    1. Go to [https://nbviewer.jupyter.org/](https://nbviewer.jupyter.org/)
+    2. Paste this notebook's URL: `https://github.com/connie-debug/Python-Data-Analysis/blob/main/Hands-on%20Project%20%20E-commerce%20Sales%20Data%20Assessment%20%26%20Cleansing%20(Reference).ipynb`
+    3. Click **Go!**
+
+**完整查看笔记本的方法：**
+- **下载** `.ipynb` 文件，并在本地的 Jupyter Notebook 或 VS Code 中打开。
+- **或** 使用在线的 **Nbviewer** 服务：
+    1. 访问 [https://nbviewer.jupyter.org/](https://nbviewer.jupyter.org/)
+    2. 粘贴此笔记本的链接：`https://github.com/connie-debug/Python-Data-Analysis/blob/main/Hands-on%20Project%20%20E-commerce%20Sales%20Data%20Assessment%20%26%20Cleansing%20(Reference).ipynb`
+    3. 点击 **Go!**
